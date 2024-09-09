@@ -1,0 +1,15 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Mirko Ramos",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://codesandbox.io/p/sandbox/npm-playground-forked-lt33f2?file=%2Fboilerplate1-npm-main%2Fpackage.json%3A13%2C27&workspaceId=57afde40-6099-4c2d-9ca4-ca96e9cadf5c"
+  }
+}
