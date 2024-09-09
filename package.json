@@ -1,5 +1,6 @@
 {
   "name": "npm-playground",
+  "author": "Jane Doe",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
